@@ -1,4 +1,4 @@
-<p align="center">Métodos de Array em Javascript</p>
+# Estudando Métodos de Array com Javascript
 
 ## Tecnologias utilizadas durante o curso
 * JavaScript
